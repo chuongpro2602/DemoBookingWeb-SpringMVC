@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/main/java/spring/ojt/controller/HotelController.java=UTF-8
+encoding//src/main/java/spring/ojt/controller/PaymentHotelController.java=UTF-8
+encoding//src/main/java/spring/ojt/entity/BookingTourEntity.java=UTF-8
+encoding//src/main/java/spring/ojt/entity/CreditCardEntity.java=UTF-8
+encoding//src/main/java/spring/ojt/entity/HotelEntity.java=UTF-8
+encoding//src/main/java/spring/ojt/entity/RoomEntity.java=UTF-8
+encoding//src/main/java/spring/ojt/entity/TourEntity.java=UTF-8
+encoding//src/main/java/spring/ojt/exception/ExceptionHandle.java=UTF-8
+encoding/<project>=UTF-8
